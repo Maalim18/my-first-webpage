@@ -12,4 +12,10 @@ h1 {
   ul {
     line-height: 40px;
   }
-  
+  body{
+      color: black;
+      background-color: chocolate;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+      line-height: normal;
+  }
